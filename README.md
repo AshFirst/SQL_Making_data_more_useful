@@ -1,1 +1,4 @@
 # SQL_Making_data_more_useful
+For making the data given in the below link
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0hPX1RFWkxDTVVQU1o4eEpQZTFmRzVRc1pxUXxBQ3Jtc0tuWmN2NFNLS19zZGl0RWR4NmVwQXc3Q2tXQy1UOC14WXBnNUsyQUhTVm5DQzNYYWRoajRMdnRMTjFaSnNHcWFGYkRpdkdtSVZoU3FMSEp2TWs1YVhXOUJWc0pLYmlpeFJzWEl6dzhfLUFjV0JWZUFxZw&q=https%3A%2F%2Fgithub.com%2FAlexTheAnalyst%2FPortfolioProjects%2Fblob%2Fmain%2FNashville%2520Housing%2520Data%2520for%2520Data%2520Cleaning.xlsx&v=8rO7ztF4NtU
+
